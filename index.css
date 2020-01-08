@@ -8,3 +8,8 @@ body
   width: 128px;
   height: 128px;
 }
+
+h1
+{
+  font-family: "Lucida Console";
+}
