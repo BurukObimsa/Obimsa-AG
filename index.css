@@ -32,7 +32,7 @@ h1
 
 #banner
 {
-  top: 0;
+  bottom: 100;
   background: red;
   width: auto;
   height: 9cm;
