@@ -14,7 +14,14 @@ h1
   font-family: "Lucida Console";
   color: #F39C12;
   font-size: 70px;
-  position: absolute;
+  position: static;
   top: 0cm;
   left: 4cm;
+}
+
+#logoKnopf
+{
+  position: absolute;
+length: 14cm;
+width: 4cm;
 }
