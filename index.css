@@ -32,8 +32,6 @@ h1
 
 #banner
 {
-  top: 0;
-  position: absolute;
   background: red;
   width: auto;
   height: 9cm;
