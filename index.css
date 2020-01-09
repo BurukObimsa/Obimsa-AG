@@ -33,7 +33,7 @@ h1
 #banner
 {
   top: 0cm;
-  position: static;
+  position: absolute;
   background: red;
   width: auto;
   height: 9cm;
