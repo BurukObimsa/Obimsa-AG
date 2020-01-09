@@ -1,0 +1,68 @@
+body
+{
+  background-color: #00001a;
+}
+
+#logo
+{
+  top: 15px;
+  left: 20px;
+  width: 128px;
+  height: 128px;
+  z-index: 2;
+  position: absolute;
+}
+
+#obimsaag
+{
+  font-family: "Lucida Console";
+  color: #0B5345;
+  font-size: 70px;
+  position: absolute;
+  top: 0cm;
+  left: 4cm;
+  z-index: 2;
+}
+
+#logoKnopf
+{
+  position: absolute;
+  width: 14cm;
+  height: 3.6cm;
+  opacity: 0;
+  z-index: 3;
+}
+
+#banner
+{
+  position: absolute;
+  background: #138D75;
+  width: 1900px;
+  height: 4.8cm;
+  z-index: 0;
+  border: 6px #117A65 solid;
+}
+
+#line_banner
+{
+  top: 145px;
+  position: absolute;
+  background: #117A65;
+  width: 1910px;
+  height: 6px;
+  z-index: 1;
+}
+
+#spotify
+{
+  position: absolute;
+  color: #0B5345;
+  font-family: "Lucida Console";
+  font-size: 18px;
+  z-index: 4;
+  background: #16A085;
+  border: none;
+  top: 151px;
+  height: 44px;
+  left: 14px;
+}
