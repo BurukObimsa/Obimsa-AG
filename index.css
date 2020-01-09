@@ -14,4 +14,7 @@ h1
   font-family: "Lucida Console";
   color: #F39C12;
   font-size: 70px;
+  position: absolute;
+  top: 0;
+  left: 10;
 }
