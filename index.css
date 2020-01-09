@@ -24,4 +24,6 @@ h1
   position: absolute;
   width: 14cm;
   height: 5cm;
+  background-color: none;
+  border-color: none;
 }
