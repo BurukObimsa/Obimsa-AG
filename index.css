@@ -26,3 +26,8 @@ h1
   height: 5cm;
   opacity: 0;
 }
+
+#banner
+{
+  color: red;
+}
