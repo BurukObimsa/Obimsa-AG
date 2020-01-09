@@ -29,5 +29,7 @@ h1
 
 #banner
 {
-  background-color: red;
+  background: red;
+  width: auto;
+  height: 9cm;
 }
