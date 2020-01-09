@@ -8,6 +8,7 @@ body
   width: 128px;
   height: 128px;
   z-index: 2;
+  position: absolute;
 }
 
 h1
@@ -32,9 +33,10 @@ h1
 
 #banner
 {
-  bottom: 100;
-  background: red;
-  width: auto;
-  height: 9cm;
-  z-index: 1;
+  position: absolute;
+  background: green;
+  width: 100000cm;
+  height: 5cm;
+  z-index: 0;
+  color: green;
 }
