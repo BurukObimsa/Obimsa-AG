@@ -5,6 +5,8 @@ body
 
 #logo
 {
+  top: 15px;
+  left: 20px;
   width: 128px;
   height: 128px;
   z-index: 2;
@@ -34,9 +36,19 @@ h1
 #banner
 {
   position: absolute;
-  background: green;
-  width: 100000cm;
-  height: 5cm;
+  background: #138D75;
+  width: 1900px;
+  height: 4.8cm;
   z-index: 0;
-  color: green;
+  border: 6px #117A65 solid;
+}
+
+#line_banner
+{
+  top: 145px;
+  position: absolute;
+  background: #117A65;
+  width: 1900px;
+  height: 6px;
+  z-index: 1;
 }
