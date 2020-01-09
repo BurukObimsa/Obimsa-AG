@@ -52,3 +52,17 @@ h1
   height: 6px;
   z-index: 1;
 }
+
+#spotify
+{
+  position: absolute;
+  color: #0B5345;
+  font-family: "Lucida Console";
+  font-size: 18px;
+  z-index: 4;
+  background: none;
+  border: none;
+  top: 151px;
+  height: 44px;
+  left: 15px;
+}
