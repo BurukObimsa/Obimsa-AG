@@ -65,6 +65,12 @@ body
   top: 151px;
   height: 44px;
   left: 15px;
+  transition-duration: 0.2s;
+}
+
+#spotify:hover
+{
+  color: #0E6251;
 }
 
 #aufbau

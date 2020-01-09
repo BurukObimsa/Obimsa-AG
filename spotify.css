@@ -110,3 +110,22 @@ h3
   position: relative;
   left: 18px;
 }
+
+#playlist_oeffnen
+{
+  position: relative;
+  left: 30px;
+  top: 25px;
+  border: none;
+  background: #2ECC71;
+  height: 40px;
+  width: 185px;
+  font-size: 16px;
+  border-radius: 20px;
+  transition-duration: 0.2s;
+}
+
+#playlist_oeffnen:hover
+{
+  background: #28B463;
+}
