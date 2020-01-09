@@ -7,7 +7,7 @@ body
 {
   width: 128px;
   height: 128px;
-  z-index: 1;
+  z-index: 2;
 }
 
 h1
@@ -18,7 +18,7 @@ h1
   position: absolute;
   top: 0cm;
   left: 4cm;
-  z-index: 1;
+  z-index: 2;
 }
 
 #logoKnopf
@@ -27,14 +27,14 @@ h1
   width: 14cm;
   height: 5cm;
   opacity: 0;
-  z-index: 2;
+  z-index: 3;
 }
 
 #banner
 {
-  position: absolute;
+  top: 0;
   background: red;
   width: auto;
   height: 9cm;
-  z-index: 0;
+  z-index: 1;
 }
