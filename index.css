@@ -29,7 +29,7 @@ h1
 
 #banner
 {
-  position: absolute;
+  position: static;
   background: red;
   width: auto;
   height: 9cm;
