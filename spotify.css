@@ -56,11 +56,11 @@ body
 .spotify
 {
   position: absolute;
-  color: #0B5345;
+  color: #19b394;
   font-family: "Lucida Console";
   font-size: 18px;
   z-index: 4;
-  background: #16A085;
+  background: #138D75;
   border: none;
   top: 151px;
   height: 44px;

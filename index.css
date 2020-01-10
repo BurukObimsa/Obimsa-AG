@@ -3,7 +3,7 @@ body
   background-color: #00001a;
 }
 
-#logo
+.logo
 {
   top: 15px;
   left: 20px;
@@ -13,7 +13,7 @@ body
   position: absolute;
 }
 
-#obimsaag
+.obimsaag
 {
   font-family: "Lucida Console";
   color: #0B5345;
@@ -24,7 +24,7 @@ body
   z-index: 2;
 }
 
-#logoKnopf
+.logoKnopf
 {
   position: absolute;
   width: 14cm;
@@ -33,7 +33,7 @@ body
   z-index: 3;
 }
 
-#banner
+.banner
 {
   position: absolute;
   background: #138D75;
@@ -43,7 +43,7 @@ body
   border: 6px #117A65 solid;
 }
 
-#line_banner
+.line_banner
 {
   top: 145px;
   position: absolute;
@@ -53,7 +53,7 @@ body
   z-index: 1;
 }
 
-#spotify
+.spotify
 {
   position: absolute;
   color: #0B5345;
@@ -68,12 +68,12 @@ body
   transition-duration: 0.2s;
 }
 
-#spotify:hover
+.spotify:hover
 {
-  color: #0E6251;
+  color: #19b394;
 }
 
-#aufbau
+.aufbau
 {
   background: #D68910;
   position: relative;
@@ -81,7 +81,7 @@ body
   border: 2px #D35400 solid;
 }
 
-#schutz
+.schutz
 {
   position: relative;
   background: none;
