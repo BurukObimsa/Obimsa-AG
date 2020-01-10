@@ -71,6 +71,7 @@ body
 .spotify:hover
 {
   color: #19b394;
+  cursor: pointer;
 }
 
 .aufbau
