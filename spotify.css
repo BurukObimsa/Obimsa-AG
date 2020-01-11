@@ -67,6 +67,27 @@ body
   left: 14px;
 }
 
+.social
+{
+  position: absolute;
+  color: #0B5345;
+  font-family: "Lucida Console";
+  font-size: 18px;
+  z-index: 4;
+  background: none;
+  border: none;
+  top: 151px;
+  height: 44px;
+  left: 130px;
+  transition-duration: 0.2s;
+}
+
+.social:hover
+{
+  color: #19b394;
+  cursor: pointer;
+}
+
 .schutz
 {
   position: relative;

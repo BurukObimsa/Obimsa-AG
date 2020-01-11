@@ -53,6 +53,15 @@ body
   z-index: 1;
 }
 
+.schutz
+{
+  position: relative;
+  background: none;
+  width: 1900px;
+  height: 4.8cm;
+  z-index: -1;
+}
+
 .spotify
 {
   position: absolute;
@@ -74,8 +83,7 @@ body
   cursor: pointer;
 }
 
-/*Immer Plus 115 bei left*/
-.social
+.social /*Immer Plus 115 bei left*/
 {
   position: absolute;
   color: #0B5345;
@@ -97,19 +105,5 @@ body
 }
 
 
-.aufbau
-{
-  background: #D68910;
-  position: relative;
-  z-index: 0;
-  border: 2px #D35400 solid;
-}
-
-.schutz
-{
-  position: relative;
-  background: none;
-  width: 1900px;
-  height: 4.8cm;
-  z-index: -1;
-}
+/*WENN WRITER AUSGGEWÄHLT DANN FARBE #19b394 */
+/*NEUE WRITER HIER ERGÄNZEN*/
